@@ -15,7 +15,7 @@ Usage:
 Example:
 --------
 HTML:
-<div class="mv20 bt posrel">Content</div>
+&lt;div class="mv20 bt posrel"&rt;Content&lt;/div&rt;
 
 Result:
 * margin-top: 20px; margin-bottom: 20px;
@@ -23,7 +23,7 @@ Result:
 * position: relative;
 
 You can combine it:
-<div class="mv20 mr10">Content</div>
+&lt;div class="mv20 mr10"&rt;Content&lt;/div&rt;
 
 * margin-top: 20px; margin-bottom: 20px;
 * margin-right: 10px;
